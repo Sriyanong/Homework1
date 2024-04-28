@@ -1,0 +1,21 @@
+div{
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  height: 6vw;
+  background: linear-gradient(125deg,red,white);
+}
+img {
+  border-radius: 50%;
+  }
+h1 {
+  color:blue;
+}
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: mediumturquoise;
+}
+h4{
+  text-align: center;
+}
+
